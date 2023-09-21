@@ -8,4 +8,4 @@ Excited about:
 - Framer Motion
 - Three.js 🖼️
   
-- 💬 Looking for job as a Frontend Developer! ❤️
+💬 Looking for job as a Frontend Developer! ❤️
