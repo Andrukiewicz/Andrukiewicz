@@ -1,8 +1,8 @@
 ### Hi, I'm Krzysztof 👋
 
-### My  demo apps
+## My  demo apps
 [Trollo](https://trollo-self.vercel.app/)
-## Description
+### Description
 Kanban app using Next.js / Zustand / react-beautiful-dnd
 - Persisting tasks, columns, and collapsing column state in LocalStorage
 - Fully animated drag and drop inbetween tasks and columns
