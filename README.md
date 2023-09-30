@@ -6,7 +6,7 @@ Excited about:
   
 💬 Looking for job as a Frontend Developer! ❤️
 
-## My  demo apps
+## My portfolio apps
 [Trollo](https://trollo-self.vercel.app/)
 ### Description
 Kanban app using Next.js / Zustand / react-beautiful-dnd
