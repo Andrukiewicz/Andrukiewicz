@@ -1,4 +1,10 @@
 ### Hi, I'm Krzysztof 👋
+Excited about:
+- Next.js
+- Framer Motion
+- Three.js 🖼️
+  
+💬 Looking for job as a Frontend Developer! ❤️
 
 ## My  demo apps
 [Trollo](https://trollo-self.vercel.app/)
@@ -9,10 +15,3 @@ Kanban app using Next.js / Zustand / react-beautiful-dnd
 - Fully rearrangable positions of tasks and columns
 
 - Currently working on my portfolio page.
-
-Excited about:
-- Next.js
-- Framer Motion
-- Three.js 🖼️
-  
-💬 Looking for job as a Frontend Developer! ❤️
