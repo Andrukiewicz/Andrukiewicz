@@ -14,3 +14,4 @@ Excited about:
 - Persisting tasks, columns, and collapsing column state in LocalStorage
 - Fully animated drag and drop inbetween tasks and columns
 - Fully rearrangable positions of tasks and columns
+- WYSIWYG editor for tasks
