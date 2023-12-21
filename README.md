@@ -14,3 +14,9 @@ Excited about:
 - Fully animated drag and drop inbetween tasks and columns
 - Fully rearrangable positions of tasks and columns
 - WYSIWYG editor for tasks
+
+[CoffeePanda](https://coffeepanda.vercel.app/) - Cafe website design idea using Next.js & Framer motion
+- On load animations
+- On scroll animations
+- Self made logo
+- Ai generated images
